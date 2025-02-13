@@ -509,6 +509,11 @@ label:hover {
     color: #dcae38;
 }
 
+.about-text {
+    padding: 10px;
+    padding-top: 35px;
+}
+
 #contents {
     background-image: url('../images/bay.png');
     object-fit: cover;
